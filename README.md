@@ -26,7 +26,8 @@ The mechanical structure was fully modeled to accommodate optimal weight distrib
 *   **CAD Engineering:** Modeled from scratch using **AutoCAD Fusion 360**.
 *   **Additive Manufacturing:** Structural components and custom brackets were printed utilizing high-precision industrial-grade and consumer 3D printers, specifically the **Bambu Lab X1 Carbon** and **Creality Ender 3 V3**.
 
-<img width="570" height="790" alt="Teknik Çizim" src="https://github.com/user-attachments/assets/7200d549-66aa-4829-a4bf-a9eb4a47f0f5" />
+<img width="570" height="649" alt="Teknik Çizim" src="https://github.com/user-attachments/assets/6206fa50-769f-48e3-8ec2-693154744312" />
+
 
 ---
 
